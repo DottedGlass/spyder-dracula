@@ -15,6 +15,9 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | [![Victor Wang](https://avatars1.githubusercontent.com/u/29390846?s=460&v=4)](https://github.com/vtwang) |
 | -------------------------------------------------------------------------------------------------------- |
 | [Victor Wang](https://github.com/vtwang)                                                                 |
+| [![Sadjad Abedi](https://avatars.githubusercontent.com/u/65682889?v=4)](https://github.com/Sad-Abd) |
+| -------------------------------------------------------------------------------------------------------- |
+| [Sadjad Abedi](https://github.com/Sad-Abd)                                                                 |
 
 ## Community
 
