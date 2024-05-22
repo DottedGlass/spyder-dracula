@@ -12,7 +12,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/spyder-ide/
 
 #### Activating theme
 
-For Spyder 4.0.x
+For Spyder > 5.0.x
 
 1. With Spyder closed, open `~/.spyder-py3/spyder.ini` (for Windows/macOS) or `~/.config/.spyder-py3/config/spyder.ini` (for Linux)
 2. Find the `[appearance]` section. Add `dracula` to the names variable. For example:
